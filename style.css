@@ -7,6 +7,7 @@ img{
 }
 #w{
     width: 1980
+    place-items: center
 }
 #new{
     font-size: 18
